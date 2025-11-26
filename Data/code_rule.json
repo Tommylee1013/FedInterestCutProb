@@ -1,0 +1,19 @@
+{
+    "code" : {
+        "January": "F",
+        "February": "G",
+        "March": "H",
+        "April": "J",
+        "May": "K",
+        "June": "M",
+        "July": "N",
+        "August": "Q",
+        "September": "U",
+        "October": "V",
+        "November": "X",
+        "December": "Z"
+    },
+    "Ticker" : {
+        "30 Day Federal Funds Futures" : "ZQ"
+    }
+}
